@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+fastf1-cache/
+recordings/
+data/
+site/
+.venv/
+venv/
+.DS_Store

@@ -1,0 +1,4 @@
+aiohttp>=3.9
+fastf1>=3.5
+numpy
+pandas
